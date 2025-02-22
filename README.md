@@ -8,6 +8,8 @@
 
 Fusion 360 and `.3mf` file: [rsc/bottle_rest/](rsc/bottle_rest/) 
 
-![image](rsc/bottle_rest/bottle_rest.jpg | width=50)
+<img src="rsc/bottle_rest/bottle_rest.jpg" alt="Alt Text" width="300">
+
+
 
 
